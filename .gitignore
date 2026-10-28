@@ -1,0 +1,16 @@
+#Hemmeligheter
+.env
+*.pem
+*.key
+
+#Terraform
+.terraform/
+*.tfstate
+*.tfstate.*
+EOF
+
+
+
+
+
+
